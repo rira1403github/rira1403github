@@ -29,7 +29,6 @@ I'm a 21 y/o Full Stack Web Developer and a Software Developer
 ## Connect with me
 
 [![Twitter](twitter-logo.png)][Twitter]
-[![Linkedin](linkedin-logo.png)][Linkedin]
 
 # Stats 
 
