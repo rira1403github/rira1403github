@@ -4,7 +4,7 @@ I'm a 21 y/o Full Stack Web Developer and a Software Developer
 
 ## I'm a full time code, a scale.jobs intern, and a Student
 
-* ⚡I have cleared my OSCP, CRTL, CRTO, eJPT, and multiple other courses related to CyberSec.
+* ⚡I have cleared my MERN Stack
 * ⚡I'm currently learning Devops
 * ⚡I like making websites and solving challenges.
 * ⚡I also work on CRM and programs related to C++ and System Design.
@@ -28,14 +28,13 @@ I'm a 21 y/o Full Stack Web Developer and a Software Developer
 
 ## Connect with me
 
-[![LinkedIn](assets/twitter-logo.png)][LinkedIn]
-[![Discord](assets/discord-logo.png)][Discord]
+[![Linkedin]()][Linkedin]
 
 # Stats 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cipher7&show_icons=true&theme=algolia" /> &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cipher7&theme=algolia&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rira1403github&show_icons=true&theme=algolia" /> &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rira1403github&theme=algolia&show_icons=true" />
 <p>
   
 ---
@@ -46,5 +45,4 @@ I'm a 21 y/o Full Stack Web Developer and a Software Developer
 </p>
 
 ---
-[Twitter]: https://twitter.com/xCipher007
-[Discord]: https://discordapp.com/users/706779776349765722
+[Linkedin]: https://www.linkedin.com/in/ritik-raj-41b5a5234/
