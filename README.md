@@ -28,7 +28,8 @@ I'm a 21 y/o Full Stack Web Developer and a Software Developer
 
 ## Connect with me
 
-[![Linkedin]()][Linkedin]
+[![Twitter](twitter-logo.png)][Twitter]
+[![Linkedin](linkedin-logo.png)][Linkedin]
 
 # Stats 
 
@@ -45,4 +46,5 @@ I'm a 21 y/o Full Stack Web Developer and a Software Developer
 </p>
 
 ---
+[Twitter]: https://x.com/rira1403twitt
 [Linkedin]: https://www.linkedin.com/in/ritik-raj-41b5a5234/
