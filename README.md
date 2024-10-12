@@ -33,7 +33,7 @@ I'm a 21 y/o Full Stack Web Developer and a Software Developer
 # Stats 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rira1403github&show_icons=true&theme=algolia" /> &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=rira1403github&show_icons=true&theme=algolia" /> &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rira1403github&theme=algolia&show_icons=true" />
 <p>
   
