@@ -41,7 +41,7 @@ I'm a 21 y/o Full Stack Web Developer and a Software Developer
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Cipher7/count.svg" />
+  <img src="https://profile-counter.glitch.me/rira1403github/count.svg" />
 </p>
 
 ---
