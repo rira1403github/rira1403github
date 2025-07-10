@@ -69,11 +69,11 @@
 
 #### 🔹 [Seva Connect 3.0](https://seva-connect-3-0.vercel.app/)
 > 🌐 A modern frontend for a social impact initiative  
-> 📌 [GitHub Repo](https://github.com/rira1403github/seva-connect-3.0)
+> 📌 [GitHub Repo](https://github.com/rira1403github/ESG_Monitoring)
 
 #### 🔹 [Portfolio Site](https://ritik-portfolio-dun.vercel.app/)
 > 💼 A showcase of projects, skills, and resume  
-> 📌 [GitHub Repo](https://github.com/rira1403github/ritik-portfolio)
+> 📌 [GitHub Repo](https://github.com/rira1403github/3D-Portfolio)
 
 ---
 
