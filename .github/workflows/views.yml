@@ -1,0 +1,17 @@
+name: Profile Views Tracker
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # runs every hour
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Update View Count
+        uses: jaywcjlove/github-action-profile-views@main
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
