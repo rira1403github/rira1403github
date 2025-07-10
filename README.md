@@ -38,12 +38,11 @@ I'm a 22 y/o Full Stack Web Developer and a Software Developer
 <p>
   
 ---
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/rira1403github/count.svg" />
-  ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/rira1403github&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)
+<p align="center">
+  <b>Visitor Count</b><br>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/rira1403github&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false" alt="Visitor Count" />
 </p>
+
 
 ---
 [Twitter]: https://x.com/rira1403twitt
