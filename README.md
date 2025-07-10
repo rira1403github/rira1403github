@@ -96,9 +96,9 @@
 ### 🔢 Visitor Count
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/rira1403github/count.svg" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=rira1403github&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="Visitor Counter" />
+  
 </p>
-
 ---
 
 ### 📈 Profile Views (GitHub Actions Powered)
