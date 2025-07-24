@@ -101,8 +101,4 @@
 </p>
 ---
 
-### 📈 Profile Views (GitHub Actions Powered)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rira1403github&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
-</p>
